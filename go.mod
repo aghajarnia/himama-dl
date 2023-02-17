@@ -1,4 +1,4 @@
-module github.com/meagar/himama-dl
+module github.com/aghajarnia/himama-dl
 
 go 1.17
 
